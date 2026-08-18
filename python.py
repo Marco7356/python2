@@ -8,5 +8,5 @@
 
 # from datetime import datetime as dt
 # print(dt.now())
-import calculator
-print(calculator.add(1,2))
+# import calculator
+# print(calculator.add(1,2))
